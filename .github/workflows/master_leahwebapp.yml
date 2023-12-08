@@ -63,4 +63,4 @@ jobs:
           app-name: 'LeahWebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDFEC631E7E445F19434B43F340B6311 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_891AA39A3E09432A900DF6484E9569E3 }}
